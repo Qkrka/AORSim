@@ -1,0 +1,5 @@
+Pin[fetch3.l2_arlog] nije definisan u konfiguracionom fajlu, a neko ga referencira
+Pin[fetch2.gradr] nije definisan u konfiguracionom fajlu, a neko ga referencira
+Pin[fetch2.regdir] nije definisan u konfiguracionom fajlu, a neko ga referencira
+Pin[fetch2.regdir] nije definisan u konfiguracionom fajlu, a neko ga referencira
+Pin[fetch3.l2_arlog] nije definisan u konfiguracionom fajlu, a neko ga referencira
