@@ -1,3 +1,12 @@
+AORSim_V0.3.1.2.jar - the simulator
+konfiguracija.txt - configuration of the simulator
+microProgram.txt - processor microcode
+test/Codetest3a - test with random instructions
+test/Codetest3b - merge sort test, array length - 1000h, array start address - 1010h
+test/3bins - clean instructions for 3b
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Da bi se pokrenuto simulator racunarskog sistema potrebno je da na racunaru bude instalirana java virtuelna masina verzija 1.7 ili novije.
 Pokretanje simulatora se postize pomocu jar fajla koji je dat u prilogu. 
 Ukoliko se prilikom pokretanja simulator ne pokrene potrebno je proveriti da li postoji instalirana java, i da li se putanja do java.exe programa nalazi u sistemskoj promenljivi PATH. Ako se ne nalazi dodati putanju do java.exe programa u promenljivu PATH (http://docs.oracle.com/javase/tutorial/essential/environment/paths.html). 
